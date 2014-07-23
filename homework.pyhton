@@ -1,0 +1,22 @@
+first = "greg"
+last = "harston"
+age = 48
+print first , last , age
+import math
+
+sidea = 12.55
+sideb = 17.85
+sidec = (sidea * sidea) + (sideb * sideb)
+value =math.sqrt(sidec)
+print value
+operand1 = 95
+operand2 = 64.5
+
+print operand1 + operand2
+print operand1 - operand2
+print operand1 * operand2
+print operand1 / operand2
+print operand1 % operand2
+
+
+#I can change the operands without having to type all the other lines
